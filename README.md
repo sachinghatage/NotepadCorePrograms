@@ -1,1 +1,13 @@
 # NotepadCorePrograms
+Anagram
+Armstrong_Number
+CapitalFirstLetter
+Fibonacci
+FrequencyOfChar
+LongestWord
+NonRepeated
+PalindromeNumber
+PalindromeString
+SumOfDigitsInString
+SecondHighest
+SumOfDiagonals
